@@ -10,7 +10,7 @@
 
 .box {
     width: 50%;
-    background-color: antiquewhite;
+    background-color: rgb(201, 200, 200);
     display: flex;
     justify-content:space-evenly;
     padding: 25px;
@@ -20,6 +20,22 @@
 .circle {
     width: 50px;
     height: 50px;
-    background-color: aqua;
     border-radius: 50%;
+    cursor: pointer;
+}
+
+.red {
+    background-color: #E73F1E;
+}
+
+.orange {
+    background-color: #FB6C00;
+}
+
+.yellow {
+    background-color: #F9B637;
+}
+
+.beige {
+    background-color: #FFDD9C;
 }
