@@ -33,6 +33,17 @@ body {
     justify-content:space-evenly;
     padding: 25px;
     border-radius: 100px;
+    
+}
+
+.btn {
+    width: 100px;
+    height: 50px;
+    margin: 5px;
+    background-color: green;
+    border-radius: 20px;
+    border: none;
+    color: white;
 }
 
 .circle {
